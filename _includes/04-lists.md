@@ -1,3 +1,4 @@
-bangles 
-ring 
-bed
+*bangles 
+*ring 
+*bed
+*chair
