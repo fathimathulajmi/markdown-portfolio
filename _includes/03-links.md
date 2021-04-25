@@ -1,2 +1,2 @@
-https://www.linkedin.com/in/fathimathul-ajmi-297a88206
-https://github.com/fathimathulajmi
+[fathimathul ajmi](https://www.linkedin.com)
+[fathimathul ajmi](https://github.com)
