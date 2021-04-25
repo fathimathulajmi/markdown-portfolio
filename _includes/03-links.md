@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+https://www.linkedin.com/in/fathimathul-ajmi-297a88206
+https://github.com/fathimathulajmi
